@@ -1,0 +1,2 @@
+cd C:\Users\ASUS\Desktop\ThucTapTotNghiep\AWS-FCJ-main
+hugo server -D
